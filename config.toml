@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Politics Hub"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
-theme = "hugo-theme-fuji-master"
+theme = "hugo-theme-color-your-world"
 
 [menu]
 	[[menu.main]]
