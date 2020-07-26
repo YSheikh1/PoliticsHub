@@ -1,0 +1,25 @@
+baseURL = "http://YS-Politics.org/"
+languageCode = "en-us"
+title = "Politics Hub"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+theme = "hugo-theme-hamburg"
+
+[menu]
+	[[menu.main]]
+		name = "About"
+		identifier = "about"
+		url = "pages/about"
+		
+
+[params]
+  subtitle = "Blog posts relating to the political world."
+  description  = "Blog posts relating to the political world."
+	mainSections = ["posts"]
+
+[social]
+    github  = "https://github.com/YSheikh1/PoliticsHub"
+    
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    
