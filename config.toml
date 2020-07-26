@@ -1,4 +1,4 @@
-baseURL = "http://YS-Politics.netlify.app/"
+baseURL = "http://ys-politicshub.netlify.app/"
 languageCode = "en-us"
 title = "Politics Hub"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
