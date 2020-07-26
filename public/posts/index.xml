@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Politics Hub</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Politics Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Youth Unemployment during COVID-19</title>
+      <link>/posts/youth-unemployment-during-covid-19/</link>
+      <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/youth-unemployment-during-covid-19/</guid>
+      <description>Due to the implications of COVID-19, many businesses have had to shut their doors, and because of this they are making less revenue. The hardest hit business in terms of revenue are food chains and different retailers, such as Osmos or Winners. Due to slow business, the chains and retailers have had to lay off many workers. Young people took the hardest hit when it came to unemployment.
+“It’s not surprising that youth have been hit particularly hard, because of their concentration in retail, food and accommodations and restaurant industries, and also the general inexperience of youth tends to make them more vulnerable,” said Andrew Agopsowicz, a senior economist at the Royal Bank of Canada.</description>
+    </item>
+    
+  </channel>
+</rss>
