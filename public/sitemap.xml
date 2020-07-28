@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>/2020/07/26/youth-unemployment-during-covid-19/</loc>
+    <loc>/post/youth-unemployment-during-covid-19/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/youth-unemployment-during-covid-19/</loc>
+    <loc>/2020/07/26/youth-unemployment-during-covid-19/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,6 +54,10 @@
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
   </url>
   
 </urlset>

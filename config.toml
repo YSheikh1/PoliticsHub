@@ -1,25 +1,105 @@
 baseURL = "http://ys-politicshub.netlify.app/"
-languageCode = "en-us"
+    
+defaultContentLanguage = "en"
+author = "Hugo Authors"
 title = "Politics Hub"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+theme = "hugo-vitae"
+paginate = 5
+enableRobotsTXT = true
 
-theme = "ezhil-master"
+copyright = "© Copyright notice | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
 
-[menu]
-	[[menu.main]]
-		name = "About"
-		identifier = "about"
-		url = "pages/about"
-		
+pygmentsstyle = "colorful"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
-[params]
-  subtitle = "Blog posts relating to the political world."
-  description  = "Blog posts relating to the political world."
-	mainSections = ["posts"]
-
-[social]
-    github  = "https://github.com/YSheikh1/PoliticsHub"
+googleAnalytics = ""
+disqusShortname = ""
     
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+    posts = "/:year/:month/:day/:slug/"
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	series = "series"
+
+[params]
+
+	# Add meta keywords in head part (Site Keywords or Tags of Page)
+	keywords = ["Canada","politics","blog"]
+
+	# Add meta description in head part
+	description = "Blog posts relating to the political world."
+
+	# Add pagetitle to homepage <title> tag
+	pagetitle = "All about Canadian Politics"
+
+	# Add a subtitle to your website
+	subtitle = "Blog posts relating to the political world."
+
+	# Activate to show authors on pages if available
+	#listAuthor = true
+
+	# Add math typesetting with KaTeX (Global with this Param)
+	math = true
+
+	# Optional 80x80 avatar image.
+	# avatar = "/img/vitae.jpg"
+
+	# Optional favicons for website
+	#favicon = true
+
+	# Add list of sections that should show up on the homepage
+        mainSections = ["posts"]
+
+	# Add list of Sections/Types that should no be considered by RSS
+	#nofeedSections = ["post"]
+
+	# Deactivate Taxonomies for specific page types
+	#disableTaxoTypes = [""]
+
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page"]
+
+	# Custom CSS applied to default styles. (Path is static/css/)
+	customCSS = "custom.css"
+
+# Nav.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[menu.main]]
+name = "Categories"
+url = "/categories"
+weight = 5
+
+[[params.social]]
+name = "Github"
+icon = "fab fa-github"
+url = "https://github.com/YSheikh1/PoliticsHub"
+
+[[params.social]]
+name = "RSS"
+icon = "fas fa-rss"
+url = "/index.xml"
+
     
