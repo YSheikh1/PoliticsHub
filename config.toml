@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Politics Hub"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
-theme = "anatole-master"
+theme = "hugo-vitae-master"
 
 [menu]
 	[[menu.main]]
