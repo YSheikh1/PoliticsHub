@@ -1,14 +1,12 @@
 baseURL = "http://ys-politicshub.netlify.app/"
     
 defaultContentLanguage = "en"
-author = "Hugo Authors"
+author = "Yahya Sheikh"
 title = "Politics Hub"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
-theme = "hugo-vitae"
+theme = "ghostwriter-master"
 paginate = 5
 enableRobotsTXT = true
-
-copyright = "© Copyright notice | [Vitae](https://github.com/dataCobra/hugo-vitae) theme for [Hugo](https://gohugo.io)"
 
 pygmentsstyle = "colorful"
 pygmentscodefences = true
