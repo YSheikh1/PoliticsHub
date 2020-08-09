@@ -5,7 +5,7 @@ date: '2020-07-26'
 slug: youth-unemployment-during-covid-19
 categories: []
 tags: []
-summary: ''
+summary: 'The Implications of COVID-19 on Youth Employees.'
 ---
 Due to the implications of COVID-19, many businesses have had to shut their doors, and because of this they are making less revenue. The hardest hit business in terms of revenue are food chains and different retailers, such as Osmos or Winners. Due to slow business, the chains and retailers have had to lay off many workers. Young people took the hardest hit when it came to unemployment. 
 
