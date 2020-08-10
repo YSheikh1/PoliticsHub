@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Politics Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Canadian Tourism During COVID-19</title>
+      <link>/posts/canadian-tourism-during-covid-19/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/canadian-tourism-during-covid-19/</guid>
+      <description>Why now, more than ever, we need to explore our country.</description>
+    </item>
     
     <item>
       <title>Youth Unemployment during COVID-19</title>
