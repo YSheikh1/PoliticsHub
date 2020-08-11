@@ -6,6 +6,4 @@ tags:
 title: About
 ---
 
-My name is Yahya Sheikh and I am a highschool student interested in Politics!
-
-This blog will be, mostly, about Canadian politics specifically.
+My name is Yahya Sheikh and I am a Canadian highschool student interested in Politics!
