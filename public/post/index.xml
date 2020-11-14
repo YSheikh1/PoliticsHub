@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Politics Hub</title>
-    <link>/post/</link>
+    <link>http://ys-politicshub.netlify.app/post/</link>
     <description>Recent content in Posts on Politics Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ys-politicshub.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Basic Income In Canada</title>
+      <link>http://ys-politicshub.netlify.app/2020/10/13/basic-income-in-canada/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://ys-politicshub.netlify.app/2020/10/13/basic-income-in-canada/</guid>
+      <description>Why Canada Should Impose a Guaranteed Basic Irbncome.</description>
+    </item>
+    
+    <item>
       <title>Youth Unemployment During COVID-19</title>
-      <link>/2020/07/26/youth-unemployment-during-covid-19/</link>
+      <link>http://ys-politicshub.netlify.app/2020/07/26/youth-unemployment-during-covid-19/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/07/26/youth-unemployment-during-covid-19/</guid>
+      <guid>http://ys-politicshub.netlify.app/2020/07/26/youth-unemployment-during-covid-19/</guid>
       <description></description>
     </item>
     

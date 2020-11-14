@@ -2,48 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Politics Hub</title>
-    <link>/</link>
+    <link>http://ys-politicshub.netlify.app/</link>
     <description>Recent content on Politics Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ys-politicshub.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Basic Income In Canada</title>
+      <link>http://ys-politicshub.netlify.app/2020/10/13/basic-income-in-canada/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://ys-politicshub.netlify.app/2020/10/13/basic-income-in-canada/</guid>
+      <description>Why Canada Should Impose a Guaranteed Basic Irbncome.</description>
+    </item>
+    
+    <item>
+      <title>Basic Income In Canada</title>
+      <link>http://ys-politicshub.netlify.app/posts/basic-income-in-canada/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://ys-politicshub.netlify.app/posts/basic-income-in-canada/</guid>
+      <description>Why Canada Should Impose a Guaranteed Basic Irbncome.</description>
+    </item>
+    
+    <item>
       <title>Canadian Tourism During COVID-19</title>
-      <link>/posts/canadian-tourism-during-covid-19/</link>
+      <link>http://ys-politicshub.netlify.app/posts/canadian-tourism-during-covid-19/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/canadian-tourism-during-covid-19/</guid>
+      <guid>http://ys-politicshub.netlify.app/posts/canadian-tourism-during-covid-19/</guid>
       <description>Why now, more than ever, we need to explore our country.</description>
     </item>
     
     <item>
       <title>Youth Unemployment During COVID-19</title>
-      <link>/2020/07/26/youth-unemployment-during-covid-19/</link>
+      <link>http://ys-politicshub.netlify.app/2020/07/26/youth-unemployment-during-covid-19/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/07/26/youth-unemployment-during-covid-19/</guid>
+      <guid>http://ys-politicshub.netlify.app/2020/07/26/youth-unemployment-during-covid-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Youth Unemployment during COVID-19</title>
-      <link>/posts/youth-unemployment-during-covid-19/</link>
+      <link>http://ys-politicshub.netlify.app/posts/youth-unemployment-during-covid-19/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/posts/youth-unemployment-during-covid-19/</guid>
+      <guid>http://ys-politicshub.netlify.app/posts/youth-unemployment-during-covid-19/</guid>
       <description>The Implications of COVID-19 on Youth Employees.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/pages/about/</link>
+      <link>http://ys-politicshub.netlify.app/pages/about/</link>
       <pubDate>Mon, 10 Sep 2018 19:04:46 +0200</pubDate>
       
-      <guid>/pages/about/</guid>
+      <guid>http://ys-politicshub.netlify.app/pages/about/</guid>
       <description>My name is Yahya Sheikh and I am a Canadian highschool student interested in Politics!</description>
     </item>
     

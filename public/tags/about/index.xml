@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>about on Politics Hub</title>
-    <link>/tags/about/</link>
+    <link>http://ys-politicshub.netlify.app/tags/about/</link>
     <description>Recent content in about on Politics Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Sep 2018 19:04:46 +0200</lastBuildDate>
     
-	<atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ys-politicshub.netlify.app/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/pages/about/</link>
+      <link>http://ys-politicshub.netlify.app/pages/about/</link>
       <pubDate>Mon, 10 Sep 2018 19:04:46 +0200</pubDate>
       
-      <guid>/pages/about/</guid>
+      <guid>http://ys-politicshub.netlify.app/pages/about/</guid>
       <description>My name is Yahya Sheikh and I am a Canadian highschool student interested in Politics!</description>
     </item>
     

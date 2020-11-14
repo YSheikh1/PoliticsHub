@@ -1,0 +1,18 @@
+---
+title: Basic Income In Canada
+author: Yahya Sheikh
+date: '2020-10-13'
+slug: basic-income-in-canada
+categories: []
+tags: []
+summary: 'Why Canada Should Impose a Guaranteed Basic Irbncome.'
+---
+Guaranteed Basic Income (GBI) has become a top priority as a policy choice for the Liberal government, which is to be discussed in the upcoming Liberal national convention (November 12-15) and is among 50 other priority resolutions to be suggested. GBI is a social welfare program which makes sure citizens and families, who are unemployed, have a good financial situation, sufficient enough to live on. 
+Advocates had hoped that the CERB initiative, which proved to be successful, would eventually evolve into the GBI. However, the initiative is beginning to be replaced with more generous and flexible employee insurances. 
+[Many countries have launched experimental projects for basic income, with many positive impacts being recorded.](https://cpj.ca/the-intended-and-unexpected-benefits-of-guaranteed-basic-income/) Recipients of GBI in Finland reported having fewer mental and physical health problems. Recipients in Finland also reported increased feelings of happiness, confidence, concentration, satisfaction with life, and lower levels of depression. A GBI pilot in India showed that recipients were able to afford medications, resulting in better physical health and less deaths in low income communities. 
+[A pilot project was also launched in Canada in the 1970s.](https://cpj.ca/the-intended-and-unexpected-benefits-of-guaranteed-basic-income/) Manitoba reported that recipients visited the doctor less, for both mental and physical problems. [In 1974, a small town in Canada named Dauphin was subject to a GBI experiment.](https://www.ted.com/talks/rutger_bregman_poverty_isn_t_a_lack_of_character_it_s_a_lack_of_cash/transcript?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare#t-507747) Everyone was guaranteed a basic income, which raised its population over the poverty line. It was discovered that in the years after the experiment, the people of Dauphin became richer, smarter, and healthier. School performances skyrocketed, and the rate at which people registered into hospitals decreased by 8.5%. 
+[However, what benefits could it bring for today’s generation?](https://www.penguin.co.uk/articles/2018/universal-basic-income-pros-cons.html)
+A vast majority of jobs are being replaced as technology advances. It is estimated that half of Canadian jobs will be impacted by automation in the next ten years. GBI would actually provide a safety net for those whose jobs would be affected by technological advancement. With a way to keep recently unemployed people on their feet, it would allow them to bounce back quicker.      
+Many people are affected by domestic violence in Canada. [In fact, intimate partner violence accounts for one in every four crimes reported to the police.](https://www150.statcan.gc.ca/n1/pub/85-002-x/2013001/article/11805/11805-3-eng.htm#a1) A GBI could also help out those who are in this unfortunate situation, as many stay with their partner as they are not able to sustain themselves or their children if they have any. A GBI would give them the resources to be able to help and take care of themselves. It was even reported that domestic violence incidents dropped in Dauphin when the GBI project was in place. 
+Famous writer, George Orwell, stated “For when you are approaching poverty, you make one discovery which outweighs all of the others... the fact that it annihilates the future.”. A GBI would give those in poverty a chance at a better future, and could ultimately lead to a far better society. 
+
