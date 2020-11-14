@@ -5,7 +5,7 @@ date: '2020-10-13'
 slug: basic-income-in-canada
 categories: []
 tags: []
-summary: 'Why Canada Should Impose a Guaranteed Basic Irbncome.'
+summary: 'Why Canada Should Impose a Guaranteed Basic Income.'
 ---
 Guaranteed Basic Income (GBI) has become a top priority as a policy choice for the Liberal government, which is to be discussed in the upcoming Liberal national convention (November 12-15) and is among 50 other priority resolutions to be suggested. GBI is a social welfare program which makes sure citizens and families, who are unemployed, have a good financial situation, sufficient enough to live on. 
 Advocates had hoped that the CERB initiative, which proved to be successful, would eventually evolve into the GBI. However, the initiative is beginning to be replaced with more generous and flexible employee insurances. 
